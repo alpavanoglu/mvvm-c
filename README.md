@@ -1,2 +1,2 @@
-# mvvm-c
-An Onboarding Project for MVVM-C architecture
+# MVVM-C
+An Onboarding Project for MVVM-C architecture.
